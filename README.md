@@ -1,4 +1,6 @@
-# stranded-sokoban-game
+Stranded - A Sokoban adventure game
+
+https://mxng113.github.io/stranded-sokoban-game/
 
 Game logline
 
