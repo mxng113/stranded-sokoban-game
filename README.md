@@ -1,8 +1,8 @@
 # Stranded - A Sokoban adventure game
 
-Play the game at: https://mxng113.github.io/stranded-sokoban-game/
+The game is available to play now at: https://mxng113.github.io/stranded-sokoban-game/
 
-About Stranded's website: https://minhuyen-github.github.io/Stranded-Website/#about
+About Stranded website: https://minhuyen-github.github.io/Stranded-Website/#about
 
 ## Game logline
 
